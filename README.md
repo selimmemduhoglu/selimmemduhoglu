@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Selim Memduhoğlu</h1>
-<h3 align="center">I work as a Backend Developer and as hobies I'm trying to learn new technologies.</h3>
+<h3 align="center">I work as a Backend Developer and as hobies I'm trying to learn new technologies. I usually use C# language.</h3>
 
 ----
   
