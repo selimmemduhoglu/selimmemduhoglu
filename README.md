@@ -3,9 +3,9 @@
 
 ----
   
-- 📝 I write articles on [Medium](https://medium.com/@selimmemduhoglu.dev)
+- 📝 I write articles on [Medium](https://medium.com/@selimmemduhoglu.dev) <br>
 and
-- I am in [Linkedin](https://www.linkedin.com/in/mselimmemduhoglu/)
+- I am on [Linkedin](https://www.linkedin.com/in/mselimmemduhoglu/)
 - 
 ----
 
