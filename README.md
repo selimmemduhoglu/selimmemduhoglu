@@ -4,7 +4,9 @@
 ----
   
 - 📝 I write articles on [Medium](https://medium.com/@selimmemduhoglu.dev)
-
+and
+- I am in [Linkedin](https://www.linkedin.com/in/mselimmemduhoglu/)
+- 
 ----
 
 
