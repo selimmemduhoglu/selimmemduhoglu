@@ -1,11 +1,6 @@
 <h1 align="center">👨‍💻 Muhammed Selim Memduhoğlu</h1>
 <h3 align="center"> Software Developer </h3>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selimmemduhoglu&label=Profile%20Views&color=0e75b6&style=flat" alt="selimmemduhoglu" />
-</p>
-
 ---
 
 
