@@ -1,9 +1,6 @@
 <h1 align="center">👨‍💻 Muhammed Selim Memduhoğlu</h1>
-<h3 align="center">.NET Backend Developer | Microservices Specialist | FinTech & Real-Time Solutions</h3>
+<h3 align="center"> Software Developer </h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Clean+Code+Savunucusu;Microservices+Mimarisi;FinTech+%26+Treasury+Solutions" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=selimmemduhoglu&label=Profile%20Views&color=0e75b6&style=flat" alt="selimmemduhoglu" />
@@ -11,41 +8,6 @@
 
 ---
 
-### 🤖 &nbsp;Hakkımda
-
-Merhaba! Ben **Muhammed Selim Memduhoğlu**, Erciyes Üniversitesi İnşaat Mühendisliği'nden 2020 yılında 3.36/4.00 GPA ile mezun oldum. Üniversite yıllarımda keşfettiğim yazılım tutkumu, kariyerime .NET Backend Developer olarak devam ettiriyorum.
-
-**Treasy**'de next-generation Treasury Management Platform üzerinde full-stack developer olarak çalışıyorum. Microservices mimarisi, Docker, Kafka ve FinTech çözümleri üzerine uzmanlaşıyorum.
-
-Sürekli öğrenmeye inanıyor, temiz kod prensiplerine önem veriyor ve karmaşık problemlere ölçeklenebilir çözümler geliştirmekten keyif alıyorum.
-
----
-
-### 💼 &nbsp;İş Deneyimi
-
-**🚀 Treasy** - Full-Stack Developer  
-_Feb 2025 - Present | Istanbul, Turkey_
-
-- Next-generation Treasury Management Platform geliştirme
-- Microservices mimarisi ile Money Market modülleri
-- **Teknolojiler:** Docker, Apache Kafka, Ocelot, Hangfire, DevExtreme
-- **Domain:** FinTech, Treasury Management, Banking Solutions
-
-**📡 Nevotek** - Backend Developer  
-_Jul 2024 - Feb 2025 | Istanbul, Turkey_
-
-- Apple AirPlay özelleştirmeleri ve guest device-to-TV casting çözümleri
-- Hospitality industry için backend sistem optimizasyonu
-- **Teknolojiler:** Docker, Python, RabbitMQ, Real-time Communication
-
-**💻 PortalGrup** - Backend Developer  
-_Aug 2022 - Jul 2024 | Istanbul, Turkey_
-
-- Dynavit, Fenerbahçe Clusive, Florence Nightingale, Yapı Kredi projeleri
-- Microservices mimarisi ve real-time communication çözümleri
-- **Teknolojiler:** C#, ASP.NET Core, EF Core, MSSQL, MongoDB, Redis, SignalR, RabbitMQ, Azure ServiceBus
-
----
 
 ### 🛠️ &nbsp;Teknoloji & Araçlar
 
@@ -100,19 +62,6 @@ _Aug 2022 - Jul 2024 | Istanbul, Turkey_
 
 ---
 
-### 📚 &nbsp;Eğitim & Sertifikalar
-
-**🎓 Erciyes Üniversitesi** - İnşaat Mühendisliği (3.36/4.00)  
-_2016 - 2020_
-
-**📖 Fenerbahçe Üniversitesi** - Yazılım Geliştirme Programı  
-_Temmuz 2022 - Aralık 2022_
-
-**🏆 Sertifikalar:**
-- PortalGrup - Kentico CMS
-- Kodlama.io - Yazılım Geliştirme Boot Camp (C#)
-
----
 
 ### ✍️ &nbsp;Blog Yazılarım
 
